@@ -30,6 +30,11 @@ Detailed qualifications and professional achievements can be found in my Resume.
 * **Tech:** Python, Ollama, Tavily, HIBP API.
 * **Impact:** Generates client-ready risk registers natively mapped to Essential Eight, ISO 27001, and NIST CSF with zero ongoing API costs.
 
+### Secure AWS Serverless Messaging Framework
+* **What it does:** Allows users to securely send encrypted messages to a partner over the network
+* **Tech:** Terraform, Python, AWS (API Gateway, Lambda, DynamoDB)
+* **Impact:** Ensures that the program is secure according to NIST SP 800-53 and CIS AWS Foundations and using AWS-KMS Server-Side Encryption
+
 ### nfx // Personal Trading Journal
 * **What it does:** Secure, multi-user production web platform for futures trade journaling.
 * **Tech:** React, TypeScript, Firebase, Vercel.
